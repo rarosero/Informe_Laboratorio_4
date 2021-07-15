@@ -102,7 +102,9 @@ conclusiones.
 
 ## 6.  CONCLUCIONES 
 
+- El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias de nuestro circuito eléctrico, para como paso final sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
 
+- 
 
 
 
