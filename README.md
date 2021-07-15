@@ -8,9 +8,11 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general** 
 
+Determinar de forma teórica y experimental los valores de tensión y de corriente en un circuito con más de una fuente de tensión.
 
 **Objetivos específicos**
 
+- 
 
 ## 2.  MARCO TEORICO
 
