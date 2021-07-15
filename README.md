@@ -8,7 +8,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general** 
 
-Determinar de forma teórica y experimental los valores de tensión y de corriente en un circuito con más de una fuente de tensión.
+- Determinar de forma teórica y de forma experimental en el Tinkercad (simulador para armar circuitos eléctricos) los valores de tensión y de corriente en un circuito con más de una fuente de tensión con el uso del teorema de superposición teniendo en cuenta que este teorema se usa solamente en circuitos eléctricos lineales.
 
 **Objetivos específicos**
 
