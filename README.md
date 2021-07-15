@@ -14,6 +14,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 2.  MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/75383758/125713096-dcd89342-9c87-44a7-930e-84c5b8de4ceb.png)
 
 ## 3.  EXPLICACION DEL PROCEDIMIENTO 
 
