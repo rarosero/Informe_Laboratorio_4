@@ -106,10 +106,7 @@ conclusiones.
 
 - El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias de nuestro circuito eléctrico, para como paso final sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
 
-- 
-
-
-
+- Al utilizar el teorema de superposición podemos realizar calculos en circutos con mas de una fuente de tensión conectada a este, puesto que estas fuentes pueden ser separadas y cuando se realiza la suma de las mismas notamos que existe una precisión casi exacta a cuando procedimos a la medición de dichos voltajes y corrientes.
 
 ## 7.  BIBLIOGRAFÍA
 
