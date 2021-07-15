@@ -107,6 +107,8 @@ conclusiones.
 
 ## 7.  BIBLIOGRAFÍA
 
+Teorema de superposici�n. Innovacionumh.es. (2021). Retrieved 15 July 2021, from https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm.
+
 
 
 
