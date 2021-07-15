@@ -55,9 +55,10 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
 ![image](https://user-images.githubusercontent.com/85126275/125666869-90b25903-fa1c-40b2-ae7e-b20333a1acb4.png)
 
- CIRCUITO ARMADO 
+ **Circuito armado en Tinkercad**
  
- 
+ ![image](https://user-images.githubusercontent.com/85126275/125839400-05cc16ea-03a6-4ea3-bb84-0065de2c1ff0.png)
+
 3.4.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
