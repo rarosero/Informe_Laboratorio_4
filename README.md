@@ -12,7 +12,9 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivos específicos**
 
-- 
+- Comprobar los valores medidos y calculados y analizar la diferencia y el calculo del error que existe entre estos valores.
+
+- Armar el circuito en Tinkercad (simulador para armar circuitos eléctricos) con la guia brindada para con esto realizar las respectivas mediciones.
 
 ## 2.  MARCO TEORICO
 
