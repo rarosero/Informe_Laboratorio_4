@@ -92,7 +92,7 @@ Medicion de voltaje aplicando superposición
 |**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
 |        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
 |        Calculado     |   Medido  |          Calculado           |   Medido   |            Calculado         |   Medido  |  
-|                      |           |                              |            |                              |           | 
+|                      |  0.952 V  |                              |   5.70 V   |                              |   6.53 V  | 
   
 
 
@@ -103,7 +103,7 @@ Medicion de voltaje aplicando superposición
 |**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
 |        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
 |        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
-|                        |           |                                |            |                                |           | 
+|                        |  0.025 A  |                                | 0.00695 A  |                                |  0.0255 A | 
 
 3.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
