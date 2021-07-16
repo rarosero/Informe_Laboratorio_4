@@ -78,12 +78,15 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/85126275/125883810-04f16736-753d-46bc-99f6-40da8b06e6fe.png)
+
 
 
 3.4.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/85126275/125883285-837aeb5a-285f-4b9c-b3d8-72755c1cb5e2.png)
 
 **TABLA 4.1**
 
