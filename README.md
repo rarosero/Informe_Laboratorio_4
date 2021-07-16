@@ -75,7 +75,8 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/85126275/125883810-04f16736-753d-46bc-99f6-40da8b06e6fe.png)
+![image](https://user-images.githubusercontent.com/85209614/125906320-fece4917-18a4-40f1-887b-aa9be18ebca5.png)
+
 
 
 
