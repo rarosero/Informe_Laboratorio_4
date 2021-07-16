@@ -61,15 +61,24 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
  **Circuito armado en Tinkercad**
  
- ![image](https://user-images.githubusercontent.com/85126275/125839400-05cc16ea-03a6-4ea3-bb84-0065de2c1ff0.png)
+![image](https://user-images.githubusercontent.com/85126275/125879796-bc0744c6-62db-4e0a-b1b7-b6bd1a9ec5e3.png)
+
+iniciamos la simulacion 
+
+![image](https://user-images.githubusercontent.com/85126275/125882812-288ed313-7f4f-4387-b63f-7f2adbb9e457.png)
+
 
 3.4.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+
+
 3.4.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
 
 3.4.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
