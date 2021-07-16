@@ -53,7 +53,7 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 | 1 | Resistor de 470 Ω |
 | 1 | Protoboard |
 
-3.4 **PROCEDIMIENTO**
+3.4 **PROCEDIMIENTO PRÁCTICO**
 
 3.4.1 Arme el circuito que se muestra en la figura 4.1.
 
@@ -75,7 +75,8 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/85126275/125883810-04f16736-753d-46bc-99f6-40da8b06e6fe.png)
+![image](https://user-images.githubusercontent.com/85209614/125906320-fece4917-18a4-40f1-887b-aa9be18ebca5.png)
+
 
 
 
@@ -85,6 +86,56 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 ![image](https://user-images.githubusercontent.com/85126275/125883285-837aeb5a-285f-4b9c-b3d8-72755c1cb5e2.png)
 
+Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+3.5 **PROCEDIMIENTO ANALÍTICO**
+
+Estableceremos dos casos de circuito el 1 y 2 esto con el fin de poder aplicar correctamente el teorema de superposición en cada caso una fuente estará cortocircuitada.
+
+3.5.1 CASO 1
+
+ En este caso tomaremos solamente la fuente de 20 voltios y cortocircuitaremos la fuente de 12 voltios
+
+El circuito quedaría así quitando todo lo cortocircuitado.
+
+![image](https://user-images.githubusercontent.com/85209614/125919021-5a6490fa-2ff6-4c3e-9cdc-975f59adeb75.png)
+
+Ahora resolviendo el circuito por resistencias equivalente nos queda
+
+![image](https://user-images.githubusercontent.com/85209614/125919208-e683de64-2cb8-4426-bf4e-8b07ac403c71.png)
+
+![image](https://user-images.githubusercontent.com/85209614/125919236-2f4c5d99-1965-4768-8c27-d08537291a53.png)
+
+Encontramos la intensidad total y voltaje VA del circuito
+
+![image](https://user-images.githubusercontent.com/85209614/125919555-820a77b7-eb3f-4d5c-abae-1f983e3a7e0e.png)
+
+3.5.2 CASO 2
+
+En este caso es igual al anterior con la diferencia que ahora tomaremos solamente la fuente de 12 voltios y cortocircuitaremos la fuente de 20 voltios
+
+El circuito quedaría así quitando todo lo cortocircuitado.
+
+![image](https://user-images.githubusercontent.com/85209614/125921632-0b8e30a0-62d4-4aac-8178-140fedd6cc73.png)
+
+Ahora resolviendo el circuito por resistencias equivalente nos queda
+
+![image](https://user-images.githubusercontent.com/85209614/125921731-98e90130-d668-498d-8977-169e9e787bba.png)
+
+![image](https://user-images.githubusercontent.com/85209614/125922044-1395424c-5145-430c-b682-47f8aeb24523.png)
+
+Encontramos la intensidad X y voltaje VA del circuito
+
+![image](https://user-images.githubusercontent.com/85209614/125922159-dd0cfa5e-5df4-46b4-b7d0-ada0f5834353.png)
+
+3.5.3 TOTAL
+
+Por ultimo según el teorema de superposición procedemos a sumar o restar los resistores o voltajes que se calcularon en el Caso A y B para dar con un valor total que represente al mismo resistor dentro del circuito original.
+
+![image](https://user-images.githubusercontent.com/85209614/125922333-1ad7c367-cdb0-47a3-8ba5-2ff54d4c078b.png)
+
 **TABLA 4.1**
 
 Medicion de voltaje aplicando superposición 
@@ -92,7 +143,7 @@ Medicion de voltaje aplicando superposición
 |**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
 |        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
 |        Calculado     |   Medido  |          Calculado           |   Medido   |            Calculado         |   Medido  |  
-|                      |  0.952 V  |                              |   5.70 V   |                              |   6.53 V  | 
+|         0.95 V       |  0.952 V  |           7.48 V             |   7.48 V   |            6.53 V            |   6.53 V  | 
   
 
 
@@ -103,11 +154,7 @@ Medicion de voltaje aplicando superposición
 |**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
 |        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
 |        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
-|                        |  0.025 A  |                                | 0.00695 A  |                                |  0.0255 A | 
-
-3.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los
-resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
+|        0.02553 A       |  0.025 A  |           0.00 A               |   0.00 A   |            0.02553 A           |  0.0255 A | 
 
 ## 5.  VIDEO
 
